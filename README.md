@@ -1,2 +1,2 @@
 # ISP
-A simple image signal processing using Python
+A simple image signal processing pipeline using Python
